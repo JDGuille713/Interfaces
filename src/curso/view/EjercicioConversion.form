@@ -195,10 +195,26 @@
       </component>
       <component id="b48ee" class="javax.swing.JButton" binding="btnSalir">
         <constraints>
-          <grid row="6" column="0" row-span="1" col-span="6" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <grid row="6" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <text value="SALIR"/>
+        </properties>
+      </component>
+      <component id="3bffd" class="javax.swing.JButton" binding="btnAutor">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="AUTOR"/>
+        </properties>
+      </component>
+      <component id="11b1" class="javax.swing.JButton" binding="btnReset">
+        <constraints>
+          <grid row="6" column="4" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="RESET"/>
         </properties>
       </component>
     </children>
