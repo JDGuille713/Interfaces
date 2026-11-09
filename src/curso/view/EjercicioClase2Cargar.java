@@ -1,3 +1,4 @@
+/**
 package curso.view;
 
 import javax.swing.*;
@@ -27,7 +28,7 @@ public class EjercicioClase2Cargar {
      * DO NOT edit this method OR call it in your code!
      *
      * @noinspection ALL
-     */
+     */ /*
     private void $$$setupUI$$$() {
         final JPanel panel1 = new JPanel();
         panel1.setLayout(new com.intellij.uiDesigner.core.GridLayoutManager(4, 5, new Insets(0, 0, 0, 0), -1, -1));
@@ -60,3 +61,4 @@ public class EjercicioClase2Cargar {
         panel1.add(btnAutor, new com.intellij.uiDesigner.core.GridConstraints(3, 4, 1, 1, com.intellij.uiDesigner.core.GridConstraints.ANCHOR_CENTER, com.intellij.uiDesigner.core.GridConstraints.FILL_HORIZONTAL, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_SHRINK | com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_CAN_GROW, com.intellij.uiDesigner.core.GridConstraints.SIZEPOLICY_FIXED, null, null, null, 0, false));
     }
 }
+*/
