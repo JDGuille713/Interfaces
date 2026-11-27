@@ -46,7 +46,7 @@ public class ControladorMenu {
         // Acerca de...
         vista.getItemAcercaDe().addActionListener(e -> JOptionPane.showMessageDialog(
                 vista,
-                "Guillermo\nDesarrollo de Aplicaciones Multiplataforma (DAM)",
+                "Nombre: Guillermo Repullo\nCurso: 2ºDAM",
                 "Acerca de...",
                 JOptionPane.INFORMATION_MESSAGE
         ));
